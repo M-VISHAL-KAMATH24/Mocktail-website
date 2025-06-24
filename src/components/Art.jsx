@@ -36,7 +36,7 @@ const Art = () => {
                     {goodLists.map((feature, index) => {
                         return (
                             <li key={index} className='flex items-center gap-2'>
-                                <img src="/images/check.png" alt="check" />
+                                <img src="/Mocktail-website/images/check.png" alt="check" />
                                 <p>{feature}</p>
                             </li>
                         )
@@ -44,7 +44,7 @@ const Art = () => {
                 </ul>
                 <div className='cocktail-img'>
                     <img 
-                        src="/images/under-img.jpg" 
+                        src="/Mocktail-website/images/under-img.jpg" 
                         alt="cocktail" 
                         className='abs-center masked-img size-full object-contain'
                     />
@@ -54,7 +54,7 @@ const Art = () => {
                         return (
                             <li key={index} className='flex items-center
                             justify-start gap-2'>
-                                <img src="/images/check.png" alt="check" />
+                                <img src="/Mocktail-website/images/check.png" alt="check" />
                                 <p className='md:w-fit w-60'>{feature}</p>
                             </li>
                         )

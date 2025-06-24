@@ -49,26 +49,26 @@ const About = () => {
     <div className='top-grid'>
         <div className='md:col-span-3'>
             <div className='noisy'/>
-            <img src="/images/abt1.png" alt="grid-image-1" />
+            <img src="/Mocktail-website/images/abt1.png" alt="grid-image-1" />
         </div>
         <div className='md:col-span-6'>
             <div className='noisy'/>
-            <img src="/images/abt2.png" alt="grid-image-2" />
+            <img src="/Mocktail-website/images/abt2.png" alt="grid-image-2" />
         </div>
         <div className='md:col-span-3'>
             <div className='noisy'/>
-            <img src="/images/abt5.png" alt="grid-image-5" />
+            <img src="/Mocktail-website/images/abt5.png" alt="grid-image-5" />
         </div>
 
     </div>
     <div className='bottom-grid'>
         <div className='md:col-span-8'>
             <div className='noisy'/>
-            <img src="/images/abt3.png" alt="grid-image-3" />
+            <img src="/Mocktail-website/images/abt3.png" alt="grid-image-3" />
         </div>
         <div className='md:col-span-4'>
             <div className='noisy'/>
-            <img src="/images/abt4.png" alt="grid-image-4" />
+            <img src="/Mocktail-website/images/abt4.png" alt="grid-image-4" />
         </div>
     </div>
     </div>

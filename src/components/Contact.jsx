@@ -30,8 +30,8 @@ const Contact = () => {
     })
   return (
     <footer id='contact'>
-        <img src="/images/footer-right-leaf.png" alt="right-leaf" id='f-right-leaf' />
-        <img src="/images/footer-left-leaf.png" alt="right-leaf" id='f-left-leaf' />
+        <img src="/Mocktail-website/images/footer-right-leaf.png" alt="right-leaf" id='f-right-leaf' />
+        <img src="/Mocktail-website/images/footer-left-leaf.png" alt="right-leaf" id='f-left-leaf' />
         <div className='content'>
             <h2>where to find us</h2>
             <div>

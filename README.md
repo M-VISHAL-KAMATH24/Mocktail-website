@@ -5,3 +5,5 @@ React: Frontend library for building interactive UI components.
 Vite: Next-generation frontend tooling for fast development and optimized builds.
 GSAP (GreenSock Animation Platform): Used for high-performance animations and smooth transitions.
 Tailwind CSS: Utility-first CSS framework for rapid and responsive styling.
+
+checkout : https://m-vishal-kamath24.github.io/Mocktail-website/
